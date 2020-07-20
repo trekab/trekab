@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **trekab/trekab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> You do not rise to the level of your goals. You fall to the level of your systems.
-> - James Clear
+> You do not rise to the level of your goals. You fall to the level of your systems. - James Clear
