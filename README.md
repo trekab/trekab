@@ -1,4 +1,4 @@
-#### Hi there! :wave:
+<h4 align = "center">Hi there! :wave: </h4>
 <!--
 **trekab/trekab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
