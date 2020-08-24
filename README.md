@@ -1,5 +1,4 @@
-> **You can't go back and change the beginning, but you can start where you are and change the ending.**  
-> - _C.S. Lewis_
+> **You can't go back and change the beginning, but you can start where you are and change the ending.** - _C.S. Lewis_
 <!--
 **trekab/trekab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
