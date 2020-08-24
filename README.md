@@ -1,4 +1,4 @@
-<h4 align = "center">Hi there! :wave: </h4>
+<qoute align = "center">You can't go back and change the beginning, but you can start where you are and change the ending.</quote>  ― C.S. Lewis.
 <!--
 **trekab/trekab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
