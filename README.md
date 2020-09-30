@@ -1,4 +1,4 @@
-> **...just another micronaut! :wink:**
+> **#Just Another Micronaut! :wink:**
 <!--
 **trekab/trekab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
