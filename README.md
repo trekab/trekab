@@ -1,4 +1,4 @@
-> **You can't go back and change the beginning, but you can start where you are and change the ending.** - _C.S. Lewis_
+> **...just another micronaut! :wink:**
 <!--
 **trekab/trekab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
