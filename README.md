@@ -1,6 +1,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=trekab&count_private=true&show_icons=true&hide_rank=true&hide_border=true&layout=compact" alt="Treasure Kabareebe's GitHub stats">
 
-<p>More about me:</p>
 <ul>
   <li><a href="https://trekab.github.io/portfolio/">Portfolio</a></li>
   <li><a href="https://twitter.com/TKabareebe">Twitter</a></li>
