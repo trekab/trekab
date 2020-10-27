@@ -1,9 +1,6 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=trekab&count_private=true&show_icons=true&hide_rank=true&hide_border=true&layout=compact" alt="Treasure Kabareebe's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=trekab&count_private=true&show_icons=true&hide_rank=true&hide_border=true&layout=compact" alt="Treasure Kabareebe's GitHub stats">
 
-<br>
-<ul>
-  <li><a href="https://trekab.github.io/portfolio/">Portfolio</a></li>
-  <li><a href="https://twitter.com/TKabareebe">Twitter</a></li>
-  <li><a href="https://www.linkedin.com/in/treasure-kabareebe/">LinkedIn</a></li>
-  <li><a href="https://angel.co/u/trekab">AngelList</a></li>
-</ul>
+<a href="https://trekab.github.io/portfolio/">Portfolio</a>
+<a href="https://twitter.com/TKabareebe">Twitter</a>
+<a href="https://www.linkedin.com/in/treasure-kabareebe/">LinkedIn</a>
+<a href="https://angel.co/u/trekab">AngelList</a>
