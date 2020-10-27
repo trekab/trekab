@@ -1,7 +1,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=trekab&count_private=true&show_icons=true&hide_rank=true&hide_border=true&layout=compact" alt="Treasure Kabareebe's GitHub stats">
 
-<a href="https://trekab.github.io/portfolio/">Portfolio</a>
-<a href="https://twitter.com/TKabareebe">Twitter</a>
-<a href="https://www.linkedin.com/in/treasure-kabareebe/">LinkedIn</a>
-<a href="https://angel.co/u/trekab">AngelList</a>
-
+[<img src="https://img.shields.io/badge/%20%20-portfolio-7bada7?style=for-the-badge&logo=portfolio&logoColor=white&logoWidth=30" />](https://trekab.github.io/portfolio/) [<img src="https://img.shields.io/badge/%20%20-twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" />](https://twitter.com/TKabareebe) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/treasure-kabareebe/) [<img src="https://img.shields.io/badge/%20%20-angelist-8c7bad?style=for-the-badge&logo=portfolio&logoColor=white&logoWidth=30" />](https://angel.co/u/trekab) 
