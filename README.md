@@ -1,3 +1,5 @@
+_Software Developer, Computer Engineer & Linux Enthusiast_
+
 <img src="https://github-readme-stats.vercel.app/api?username=trekab&count_private=true&show_icons=true&hide_rank=true&hide_border=true&layout=compact" alt="Treasure Kabareebe's GitHub stats">
 
 <a href="https://trekab.github.io/portfolio/" alt="portfolio link" target="_blank"><img src="https://img.shields.io/badge/%20%20-portfolio-3399ff?style=for-the-badge&logo=portfolio&logoColor=white&logoWidth=30" /></a>
