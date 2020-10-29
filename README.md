@@ -1,4 +1,4 @@
-_Full-stack Developer, Computer Engineer & Linux Enthusiast_
+_Full-Stack Web Developer, Computer Engineer & Linux Enthusiast_
 
 <img src="https://github-readme-stats.vercel.app/api?username=trekab&count_private=true&show_icons=true&hide_rank=true&hide_border=true&layout=compact" alt="Treasure Kabareebe's GitHub stats">
 
