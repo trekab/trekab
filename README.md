@@ -1,6 +1,6 @@
 <p align="center">...software developer, computer engineer & linux enthusiast...</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=trekab&count_private=true&show_icons=true&hide_rank=true&hide_border=true&layout=compact" alt="Treasure Kabareebe's GitHub stats" align="center">
+<div  align="center"><img src="https://github-readme-stats.vercel.app/api?username=trekab&count_private=true&show_icons=true&hide_rank=true&hide_border=true&layout=compact" alt="Treasure Kabareebe's GitHub stats"></div>
 
 <a href="https://trekab.github.io/portfolio/" alt="portfolio link" target="_blank" align="center"><img src="https://img.shields.io/badge/%20%20-portfolio-3399ff?style=for-the-badge&logo=portfolio&logoColor=white&logoWidth=30" /></a>
 <a href="https://twitter.com/TKabareebe" alt="twitter link" target="_blank" align="center"><img src="https://img.shields.io/badge/%20%20-twitter-3399ff?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" /></a>
