@@ -1,3 +1,4 @@
+<div style="background-color:gray;">
 <div  align="center">
   <em>...software developer, computer engineer & linux enthusiast...</em>
 </div>
@@ -11,4 +12,5 @@
   <a href="https://twitter.com/TKabareebe" alt="twitter link" target="_blank"><img src="https://img.shields.io/badge/%20%20-twitter-3399ff?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" /></a>
   <a href="https://www.linkedin.com/in/treasure-kabareebe/" alt="linkedin link" target="_blank"><img src="https://img.shields.io/badge/linkedin-3399ff.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://angel.co/u/trekab" alt="angellist link" target="_blank"><img src="https://img.shields.io/badge/%20%20-angellist-3399ff?style=for-the-badge&logo=portfolio&logoColor=white&logoWidth=30" /></a>
+</div>
 </div>
