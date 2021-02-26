@@ -1,3 +1,4 @@
+<img src="images/floating-cogs.svg" alt="floating cogs">
 <div  align="center">
   <em>...software developer, computer engineer & linux enthusiast...</em>
 </div>
