@@ -1,3 +1,3 @@
 <div  align="center">
-  <em>...`software engineer & linux enthusiast`...</em>
+  `...software engineer & linux enthusiast...`
 </div>
