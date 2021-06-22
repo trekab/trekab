@@ -1,3 +1,3 @@
 <div  align="center">
-  <b>...software engineer & linux enthusiast...</b>
+  <b><a href="https://trekab.github.io/">...software engineer & linux enthusiast...</a></b>
 </div>
