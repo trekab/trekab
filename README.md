@@ -1,3 +1,3 @@
 <div  align="center">
-  <b><a href="https://trekab.github.io/">Software Engineer & Linux Enthusiast</a></b>
+  <a href="https://trekab.github.io/"><code>Software Engineer & Linux Enthusiast</code></a>
 </div>
