@@ -1,3 +1,3 @@
 <div  align="center">
-  <a href="https://trekab.io/"><code>Software Engineer | Ruby on Rails Developer | React.js Specialist</code></a>
+  <a href="https://trekab.io/"><code>Ruby on Rails - React Software Engineer</code></a>
 </div>
