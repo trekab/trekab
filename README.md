@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://trekab.io/](https://trekab.io/)
 
-- 📝 I regularly write articles on [https://hackernoon.com/u/trekab](https://hackernoon.com/u/trekab)
+- 📝 I regularly write articles on: [Hackernoon](https://hackernoon.com/u/trekab)
 
 - 💬 Ask me about **ruby on rails, react.js & python-flask**
 
 - 📫 How to reach me **treasure.kabareebe@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Jb5gIhdmVQwsiqMh2R9kNU-E_GQ0W2X6PYv9KX-QC5I/edit?usp=sharing](https://docs.google.com/document/d/1Jb5gIhdmVQwsiqMh2R9kNU-E_GQ0W2X6PYv9KX-QC5I/edit?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1Jb5gIhdmVQwsiqMh2R9kNU-E_GQ0W2X6PYv9KX-QC5I/edit?usp=sharing)
 
 - ⚡ Fun fact **I am an interesting chess player!**
 
