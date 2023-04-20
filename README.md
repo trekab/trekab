@@ -7,6 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/t_kabareebe" target="blank"><img src="https://img.shields.io/twitter/follow/t_kabareebe?logo=twitter&style=for-the-badge" alt="t_kabareebe" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://trekab.io/](https://trekab.io/)
+
+- 📝 I regularly write articles on [https://hackernoon.com/u/trekab](https://hackernoon.com/u/trekab)
+
+- 💬 Ask me about **ruby on rails, react.js & python-flask**
+
+- 📫 How to reach me **treasure.kabareebe@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1Jb5gIhdmVQwsiqMh2R9kNU-E_GQ0W2X6PYv9KX-QC5I/edit?usp=sharing](https://docs.google.com/document/d/1Jb5gIhdmVQwsiqMh2R9kNU-E_GQ0W2X6PYv9KX-QC5I/edit?usp=sharing)
+
+- ⚡ Fun fact **I am an interesting chess player!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/t_kabareebe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="t_kabareebe" height="30" width="40" /></a>
