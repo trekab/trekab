@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences: [Resume](https://docs.google.com/document/d/1Jb5gIhdmVQwsiqMh2R9kNU-E_GQ0W2X6PYv9KX-QC5I/edit?usp=sharing)
 
-- ⚡ Fun fact **I am an interesting chess player!**
+- ⚡ Fun fact **As a chess enthusiast, I bring a unique flair to the game, making every match an engaging experience!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
