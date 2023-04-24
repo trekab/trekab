@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/t_kabareebe" target="blank"><img src="https://img.shields.io/twitter/follow/t_kabareebe?logo=twitter&style=for-the-badge" alt="t_kabareebe" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://trekab.io/](https://trekab.io/)
+- 👨‍💻 Some of my projects are available at [https://trekab.io/](https://trekab.io/)
 
 - 📝 I regularly write articles on: [Hackernoon](https://hackernoon.com/u/trekab)
 
