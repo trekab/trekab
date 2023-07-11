@@ -9,9 +9,9 @@
 
 - 👨‍💻 Some of my projects are available at [https://trekab.io/](https://trekab.io/)
 
-- 📝 I regularly write articles on: [Hackernoon](https://hackernoon.com/u/trekab)
+- 📝 I regularly write articles on [Hackernoon](https://hackernoon.com/u/trekab)
 
-- 💬 Ask me about **ruby on rails, react.js & python-flask**
+- 💬 Ask me about **ruby on rails, react.js**
 
 - 📫 How to reach me **treasure.kabareebe@gmail.com**
 
