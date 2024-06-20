@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Treasure Kabareebe</h1>
-<p align="center">🌟 Full-Stack Software Engineer | Ruby, Ruby on Rails, JavaScript | Passionate about web development and open-source contributions. Always learning and sharing knowledge.</p>
+<p align="center">🌟 "ι ¢αи мαкє тнє ¢σмρυтєя ∂σ єχα¢тℓу ωнαт ι αsк ιт тσ ∂σ!"</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trekab&label=Profile%20views&color=0e75b6&style=flat" alt="trekab" /> </p>
 
