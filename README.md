@@ -3,7 +3,15 @@
 <br>
 
 <h3 align="center">About Me</h3>
-<p>As a chess enthusiast and software engineer, I bring a unique flair to the tech world, blending strategy and innovation. I love solving complex problems and creating impactful solutions.</p>
+<p>I’m a Lead Ruby on Rails engineer focused on building scalable, reliable, and data-intensive production systems.
+
+I’ve led the design, development, and long-term ownership of fintech and telecom platforms where performance, uptime, and data integrity are critical. My work spans Rails architecture, PostgreSQL optimization, background processing, and production deployments across multi-server environments.
+
+What sets me apart is the ability to own a Rails system end-to-end — from application code to infrastructure to data pipelines. I’m comfortable going deep into performance bottlenecks, scaling databases, designing background workflows, and shipping features that hold up under real-world load.
+
+While Ruby on Rails is my core strength, I leverage DevOps and data engineering practices as force multipliers — not distractions — to ensure systems are observable, resilient, and built to scale.
+
+I work best with teams building fintech, compliance systems, marketplaces, and data-driven SaaS platforms, where engineers are trusted to think deeply about architecture, performance, and long-term ownership.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
